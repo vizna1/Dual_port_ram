@@ -1,0 +1,37 @@
+[Running] vix_tb.v
+VCD info: dumpfile dual_port_ram.vcd opened for output.
+Time: 0 | clk=0 | we_a=0 addr_a= 0 din_a=00 dout_a=xx | we_b=0 addr_b= 0 din_b=00 dout_b=xx
+Time: 5000 | clk=1 | we_a=0 addr_a= 0 din_a=00 dout_a=xx | we_b=0 addr_b= 0 din_b=00 dout_b=xx
+Time: 10000 | clk=0 | we_a=1 addr_a= 3 din_a=aa dout_a=xx | we_b=0 addr_b= 0 din_b=00 dout_b=xx
+Time: 15000 | clk=1 | we_a=1 addr_a= 3 din_a=aa dout_a=xx | we_b=0 addr_b= 0 din_b=00 dout_b=xx
+Time: 20000 | clk=0 | we_a=0 addr_a= 3 din_a=aa dout_a=xx | we_b=1 addr_b= 5 din_b=55 dout_b=xx
+Time: 25000 | clk=1 | we_a=0 addr_a= 3 din_a=aa dout_a=aa | we_b=1 addr_b= 5 din_b=55 dout_b=xx
+Time: 30000 | clk=0 | we_a=0 addr_a= 3 din_a=aa dout_a=aa | we_b=0 addr_b= 5 din_b=55 dout_b=xx
+Time: 35000 | clk=1 | we_a=0 addr_a= 3 din_a=aa dout_a=aa | we_b=0 addr_b= 5 din_b=55 dout_b=55
+Time: 40000 | clk=0 | we_a=1 addr_a= 7 din_a=0f dout_a=aa | we_b=1 addr_b= 7 din_b=f0 dout_b=55
+Time: 45000 | clk=1 | we_a=1 addr_a= 7 din_a=0f dout_a=xx | we_b=1 addr_b= 7 din_b=f0 dout_b=xx
+Time: 50000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=xx | we_b=0 addr_b= 7 din_b=f0 dout_b=xx
+Time: 55000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 60000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 65000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 70000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 75000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 80000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 85000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 90000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 95000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 100000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 105000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 110000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 115000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 120000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 125000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 130000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 135000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 140000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 145000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 150000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+Time: 155000 | clk=1 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+vix_tb.v:41: $finish called at 160000 (1ps)
+Time: 160000 | clk=0 | we_a=0 addr_a= 7 din_a=0f dout_a=f0 | we_b=0 addr_b= 7 din_b=f0 dout_b=f0
+[Done] exit with code=0 in 0.168 seconds
